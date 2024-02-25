@@ -1,0 +1,7 @@
+id=nfcdrvxmidv
+name=Xiaomi Mifare Classic
+version=0.8
+versionCode=9
+author=Danil Vyazikov
+description=This module fixes NFC subsystem on some Xiaomi phones, so applications uses Mifare Classic can work again.
+updateJson=
